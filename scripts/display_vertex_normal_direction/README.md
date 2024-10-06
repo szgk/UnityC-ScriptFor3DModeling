@@ -7,3 +7,4 @@ Unity2022 で動作確認済
 TargetObject に頂点方向を表示したい SkinMeshRenderer を持つオブジェクトをアサインする
 
 ![](https://github.com/szgk/UnityScriptFor3DModeling/blob/main/scripts/display_vertex_normal_direction/image.png)
+![](https://github.com/szgk/UnityScriptFor3DModeling/blob/main/scripts/display_vertex_normal_direction/image2.png)
