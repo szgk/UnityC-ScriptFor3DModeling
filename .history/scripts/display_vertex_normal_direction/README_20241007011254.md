@@ -1,0 +1,4 @@
+## display_vertex_normal_direction
+
+モデルの頂点法線の方向を UnityScene 上で可視化する
+TargetObject に頂点方向を表示したい SkinMeshRenderer を持つオブジェクトをアサインする
